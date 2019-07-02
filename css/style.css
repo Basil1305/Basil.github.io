@@ -1,0 +1,135 @@
+body{
+	background-color: #f5f5f5;
+}
+.container {
+	margin: 0 auto;
+	margin-top: 30px;
+	border: 1.5px solid rgba(204, 204, 204, 0.5);
+	background-color: #fff;
+	height: auto;
+}
+
+#photo{
+	padding-top: 23px;
+	padding-bottom: 20px;
+	background-color: #35869a;
+	height: 250px;
+	color: #fff;
+	text-align: center;
+}
+#contact{
+	background-color: #42a8c0;
+	height: 1650px;
+	color:#fff;
+	padding-left: 40px;
+	padding-top: 20px;
+	line-height: 35px;
+}
+
+#contact a{
+	color: #fff;
+}
+
+#education{
+	padding-top: 40px;
+	margin: 0;
+	line-height: 20px;
+}
+
+#languages{
+	padding-top: 40px;
+}
+#interests{
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+.one{
+	padding: 0;
+	height: auto;
+}
+.two{
+	background-color: #fff;
+	height: auto;
+}
+
+.section-title{
+	color: #2d7788;
+	padding-top: 50px;
+	padding-bottom: 18px;
+	font-size: 23px;
+	text-transform: uppercase;
+}
+
+.section p{
+	color: #545E6C;
+	font-size: 14px;
+}
+
+.section a{
+	color: #2d7788;
+}
+
+.section{
+	padding-left: 55px;
+	padding-right: 65px;
+}
+
+.job-title{
+	font-size: 18px;
+	margin-bottom: 0px;
+	padding-top: 10px;
+}
+
+.time{
+	color: #adadad;
+	float: right;
+}
+
+.company{
+	color: #adadad;
+	padding-bottom: 23px;
+	padding-top: 0px;
+	font-size: 16px;
+}
+
+.grey{
+	color: #c7c7c7;
+	font-size: 20px;
+}
+
+.item{
+	display: block;
+	margin-bottom: 15px;
+}
+
+element.style {
+    width: 98%;
+}
+
+.level-title{
+	font-size: 16px;
+}
+
+.skills-section{
+	padding-bottom: 40px;
+}
+
+.skillset .level-bar-inner {
+    height: 12px;
+    background: #7bc2d3;
+}
+
+.text-podval{
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	font-size: 13px;
+	color: #737070;
+}
+
+@media screen and (max-width: 991px) {
+	#contact{
+		height: 89.1%;
+	}
+}
