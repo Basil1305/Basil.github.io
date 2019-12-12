@@ -133,3 +133,13 @@ element.style {
 		height: 89.1%;
 	}
 }
+
+@media screen and (max-with: 600px){
+	.container {
+	margin: 0 auto;
+	margin-top: 0px;
+	border: 1.5px solid rgba(204, 204, 204, 0.5);
+	background-color: #fff;
+	height: auto;
+}
+}
